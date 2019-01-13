@@ -1,0 +1,10 @@
+div {
+    background-color: blue;
+}
+div.student-contributor {
+    background-color: yellow;
+}
+
+.student-contributor > h2 {
+    color: purple;
+}
